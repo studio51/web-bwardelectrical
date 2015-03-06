@@ -1,0 +1,45 @@
+
+/** TEAM
+	
+  Studio51
+  http://www.radulescuvlad.com/s51
+	
+  Author	: Vladut Radulescu
+  Roles		: Designer, Developer, UI/UX
+	
+  Twitter	: @pacMakaveli90
+  From		: United Kingdom, Newcastle-Under-Lyme, Staffordshire
+	
+/** THANKS
+
+  Twitter for their amazing Bootstrap Framework!
+  http://getbootstrap.com/
+	
+  Font Awesome for their "awesome" icons!
+  http://fortawesome.github.io/Font-Awesome/
+  
+  Alessio Laiso for one of the best free web fonts on the interweb!!!
+  http://www.behance.net/gallery/ALEO-Free-Font-Family/8018673
+  
+  *** If one of the images used in the website is owned by you please contact me at queries@radulescuvlad.com
+  **  The sources which provided me with the images didn't mention any authors
+
+/** Website
+	
+  Language   : English UK, English US
+  IDE        : Photoshop CS6, Dreamweaver CS6, Notepad++, FileZilla
+  Components : HTML5, CSS3, LESS, PHP5, jQuery
+  
+  http://www.creative-studio51.com/clients/bwardelectrical/revisions/final
+	
+  Future Release Planned
+  Update        : 01.03.2014 | Saturday 1st of March 2014
+  v3.0          : http://www.s51p.com/clients/apt/revisions/draft3
+	
+  Current
+  Last Update	: 08.10.2013 | Tuesday 8th of October 2013
+  v2.0          : http://www.s51p.com/clients/apt/revisions/draft2
+	
+  Before 
+  Last Update	: 01.09.2013 | Sunday 1st of September 2013
+  v1.0          : http://www.s51p.com/clients/apt/revisions/draft1
